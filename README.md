@@ -53,5 +53,5 @@ Backend API будет доступен на `http://localhost:4000`.
 
 ## Проектные материалы
 
-- Краткая пояснительная записка: `docs/project-note.md`
+- Пояснительная записка: `docs/explanatory-note.md`
 - Модель данных: `docs/data-model.md`
